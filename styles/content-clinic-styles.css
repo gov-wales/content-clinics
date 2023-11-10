@@ -100,14 +100,11 @@ margin-bottom: 10px;
     margin-top: 10px;
 }
 
-.table-example {
-    width: 100%;
-}
-
-tr {
+table tr {
     border-bottom: 1px solid rgb(111, 111, 111);
     border-top: 1px solid rgb(111, 111, 111);
     border-collapse: collapse;
     text-align: left;
+    vertical-align: top;
     font-size: 20px;
 }
