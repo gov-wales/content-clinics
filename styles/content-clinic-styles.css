@@ -44,12 +44,6 @@ hr {
     background-color: #7a86cc;
 }
 
-table {
-    text-align: left;
-    vertical-align: top;
-    font-size: 20px;
-}
-
 .top-banner {
     color: aliceblue;
     font-size: xx-large;
@@ -104,4 +98,10 @@ margin-bottom: 10px;
 
 .example {
     margin-top: 10px;
+}
+
+.table-example {
+    text-align: left;
+    vertical-align: top;
+    font-size: 20px;
 }
