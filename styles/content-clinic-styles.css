@@ -58,7 +58,7 @@ hr {
     font-size: 28px;
 }
 
-.page-heading, .explainer, .example, .contents, .page-title, .breadcrumb {
+.page-heading, .explainer, .example, .contents, .page-title, .breadcrumb, .table-example {
     padding: 5px 20px;
 }
 
