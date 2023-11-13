@@ -104,6 +104,8 @@ margin-bottom: 10px;
     margin-top: 10px;
 }
 
+/* TABLES */
+
 table, tr, th, td {
     border-bottom: 1px solid #7a86cc;
     border-top: 1px solid #7a86cc;
@@ -119,4 +121,10 @@ th, td {
 
 table p {
     margin-top: 0;
+}
+
+/* LISTS */
+
+.lower-alpha {
+    list-style-type: lower-alpha;
 }
