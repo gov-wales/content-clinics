@@ -107,6 +107,10 @@ margin-bottom: 10px;
 
 /* TABLES */
 
+table {
+    margin: 40px 0;
+}
+
 table, tr, th, td {
     border-bottom: 1px solid #7a86cc;
     border-top: 1px solid #7a86cc;
