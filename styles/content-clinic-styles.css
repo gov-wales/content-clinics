@@ -67,6 +67,10 @@ hr {
     padding: 5px 20px;
 }
 
+.example {
+    margin-bottom: 40px;
+}
+
 .page-heading > h1, .example > h2 {
     margin-top: 0;
 }
